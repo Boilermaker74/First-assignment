@@ -11,5 +11,5 @@
     #Added accessible alt attributes to all images
     #Added footer element
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](lead-generation.png)
     #Thank you.
